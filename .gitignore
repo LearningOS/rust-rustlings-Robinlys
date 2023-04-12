@@ -126,3 +126,9 @@ $RECYCLE.BIN/
 # Snippets
 NOTES.md
 
+.lightly
+.c_bin
+.classes
+dist
+dist-ssr
+*.local

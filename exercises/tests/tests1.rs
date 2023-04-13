@@ -12,7 +12,7 @@
 #[cfg(test)]
 mod tests {
     #[test]
-    fn you_can_assert() {
-        assert!();
+    fn you_can_assert(4) {
+        assert!(Some(5));
     }
 }

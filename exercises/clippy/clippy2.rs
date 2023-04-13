@@ -5,10 +5,12 @@
 
 fn main() {
     let mut res = 42;
-    let option = Some(12);
-    println!("{}",std::option);
-    // for x in option {
-    //     res += x;
+    //let option = Some(12);
+
+    if let Some(12)=option;
+    //println!("{}",std::option);
+  // {  for x in option {
+         res += x;
     // }
     println!("{}", res);
 }
